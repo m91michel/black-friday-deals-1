@@ -125,6 +125,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 |------|--------------|--------------|-----------|
 | [**FormBold**](https://formbold.com/) | No-code form backend soultion and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**My Web Audit**](https://www.mywebaudit.com/) | AI-powered website audit tool for freelancers and agencies to uncover SEO, UX, and performance issues that help close more deals. | 50% OFF All Plans | Nov 11 – Dec 3, 2025 |
+| [**Wins**](https://wins.cool?utm_source=black-friday-deals-Pimjo) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime | Nov 11 – Dec 3, 2025 |
 
 
 ---
