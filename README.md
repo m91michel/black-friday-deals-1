@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2025** Deals collection for dev
 
 This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** - all curated to help you **build faster, design better, and save bigger** this season.
 
-> **Total Deals Count**: 15+
+> **Total Deals Count**: 30+
 
 
 ## Overview
@@ -128,6 +128,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**FormBold**](https://formbold.com/) | No-code form backend soultion and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**My Web Audit**](https://www.mywebaudit.com/) | AI-powered website audit tool for freelancers and agencies to uncover SEO, UX, and performance issues that help close more deals. | 50% OFF All Plans | Nov 11 – Dec 3, 2025 |
 | [**Wins**](https://wins.cool?utm_source=black-friday-deals-Pimjo) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime | Nov 11 – Dec 3, 2025 |
+| [**DocuGenerate**](https://www.docugenerate.com/) | API-powered and no-code PDF document generation platform for developers and teams. | 50% OFF First 3 Months (Coupon: `BLACKFRIDAY2025`) | Nov 1 – Dec 1, 2025 |
 
 
 ---
@@ -204,6 +205,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
