@@ -63,6 +63,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 |------|--------------|--------------|-----------|
 | [**Meku**](https://meku.dev/) | AI web app builder to create full-stack sites with prompts. | 30% OFF + Free FormBold Starter (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Premium Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**Omnify**](https://www.getomnify.com/) | Omnify is an all-in-one booking and business management platform for service-based businesses to manage schedules, payments, memberships, and customer relationships. | Up to 40 percent off monthly and annual plans (Coupon: `BFCM2025`) | November 1, 2025 to December 1, 2025 |
 
 ---
 
@@ -98,6 +99,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Vue PDF Viewer**](https://www.vue-pdf-viewer.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | Vue PDF Viewer is a powerful PDF viewer for Vue 3 apps that supports keyword highlights, programmatic control, customization and annotations. | 30% off Viewer Licenses & 40% off Viewer+Annotation Licenses | Nov 17 – Dec 1, 2025 |
 | [**Tower**](https://www.git-tower.com/) | Powerful Git client for Mac and Windows with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | Nov 25 – Dec 7, 2025 |
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
+| [**Super Monitoring**](https://www.supermonitoring.com/) | Super Monitoring tracks website and web app uptime, speed, and performance to ensure everything runs smoothly. | 50 percent off one-time for new customers (Coupon: `SUPERBLACK25`) | November 28, 2025 to December 5, 2025 |
 
 
 ---
@@ -125,13 +127,14 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**MailBluster**](https://mailbluster.com/offer) | Scalable email marketing tool with automation, segmentation, templates, and advanced tracking for developers and marketers. | 50% OFF Upgrade Plan + Up to 30% OFF Email Sending (Coupon: `MBBFCM25`) | Nov 19 – Dec 3, 2025 |
 | [**Nuelink**](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly | Nov 10 - Nov 28, 2025 |
 | [**OneStream Live**](https://onestream.live/) | OneStream Live is a cloud-based live streaming platform that enables easy scheduling, multistreaming, and real-time broadcasting. | 40 percent off monthly plans for one month and 10 percent off yearly plans (Coupons: `SAVE40`, `SAVE10`) | November 10, 2025 to December 5, 2025 |
+| [**Snov.io**](https://snov.io/) | Snov.io is an email finder and verification platform that helps you discover, validate, and manage lead emails at scale through domain searches, browser extensions, and built-in verification. | 50 percent off the annual plan (Coupon: `BLACKFRIDAY`) | November 24, 2025 to December 3, 2025 |
 
 ---
 
 ### 🧩 Productivity Tools
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| [**FormBold**](https://formbold.com/) | No-code form backend soultion and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
+| [**FormBold**](https://formbold.com/) | No-code form backend solution and API for websites with integrations for Email, Slack, Notion, and more. | 40% OFF Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**My Web Audit**](https://www.mywebaudit.com/) | AI-powered website audit tool for freelancers and agencies to uncover SEO, UX, and performance issues that help close more deals. | 50% OFF All Plans | Nov 11 – Dec 3, 2025 |
 | [**Wins**](https://wins.cool?utm_source=black-friday-deals-Pimjo) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime | Nov 11 – Dec 3, 2025 |
 | [**DocuGenerate**](https://www.docugenerate.com/) | API-powered and no-code PDF document generation platform for developers and teams. | 50% OFF First 3 Months (Coupon: `BLACKFRIDAY2025`) | Nov 1 – Dec 1, 2025 |
@@ -167,7 +170,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 ### 🧱 Other Resources for Devs
 | Name | Description | Deal Details | Validity |
 |------|--------------|--------------|-----------|
-| **Product Name** | Example: Directory, API service, or dev utility | **XX% OFF** — Code: `COUPONCODE` | Nov 25 – Dec 2 2025 |
+| [**Termageddon**](https://termageddon.com/bfcm-2-free/) | Termageddon provides privacy policies, terms, disclaimers, and cookie consent solutions that cover more than 120 global privacy laws, helping agencies and their clients stay compliant. | Two free licenses for web designers (100 percent off) | November 24, 2025 to December 1, 2025 |
 
 ---
 
@@ -211,6 +214,7 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
 
 
 
