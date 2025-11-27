@@ -4,7 +4,7 @@ The ultimate **Black Friday** and **Cyber Monday 2025** Deals collection for dev
 
 This repo list brings together **verified deals and discounts on developer tools, SaaS products, UI kits, templates, design assets, and AI tools** - all curated to help you **build faster, design better, and save bigger** this season.
 
-> **Total Deals Count**: 30+
+> **Total Deals Count**: 31+
 
 
 ## Overview
@@ -65,6 +65,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Aymo AI**](https://aymo.ai/) | All-in-one AI platform for teams to collaborate, research, brainstorm, and document smarter. | 30% OFF Premium Yearly Plans (Coupon: `BLFCM2025`) | Nov 18 – Dec 2, 2025 |
 | [**Omnify**](https://www.getomnify.com/) | Omnify is an all-in-one booking and business management platform for service-based businesses to manage schedules, payments, memberships, and customer relationships. | Up to 40 percent off monthly and annual plans (Coupon: `BFCM2025`) | November 1, 2025 to December 1, 2025 |
 | [**RewriteBar**](https://rewritebar.com?ref=pimjo&utm_source=github-pimjo) | Improve your writing in any macOS application with AI assistance. Fix grammar, adjust tone, translate, rewrite, summarize — plus powerful custom actions and templates. | 50% OFF Lifetime Deal (Coupon: `BF2025`) | November 20, 2025 to December 2, 2025 |
+| [**Semantic Pen**](https://www.semanticpen.com/) | AI Content Writer - Generate high-quality content with AI | 20% OFF (Coupon: `20BF2025`) | Nov 25 – Dec 31, 2025 |
+| [**Alter**](https://alterhq.com) | Most AI tools are chat windows. Alter is a system. It captures context from your apps. Learns your voice and workflow to deliver one-click outcomes. | **70% off** Exclusive Lifetime With 40,000 AI requests included and access to 2,000+ tools | Nov 21 – Dec 1, 2025 |
 
 ---
 
@@ -97,10 +99,13 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**StatusGator**](https://statusgator.com/) | Aggregates and monitors the status of cloud services in one dashboard, tracking outages and maintenance in real time with alerts and customizable status pages. | 20% OFF Monthly and Annual Starter Plans (Coupon: `BLACKFRIDAY2025`) | Nov 2 – Dec 2, 2025 |
 | [**Dux-Soup**](https://www.dux-soup.com/black-friday-2025) | LinkedIn automation tool that helps you generate leads, engage prospects, and manage outreach efficiently. | 25% OFF All Purchases Site-wide (Coupon: `BLCKFRDYDUX25`) | Nov 10 – Nov 30, 2025 |
 | [**DevWorkspace Pro**](https://devworkspacepro.com) | Desktop app to easily build and manage Docker-powered web apps. | 40% OFF All Plans (Coupon: `BLACKFRIDAY40OFF`) | Nov 10 – Dec 10, 2025 |
+| [**VerifyForge**](https://verifyforge.com/) | Email Validation API - Verify email addresses in real-time with high accuracy | 30% OFF (Coupon: `BF2025`) | Nov 25 – Dec 1, 2025 |
 | [**Vue PDF Viewer**](https://www.vue-pdf-viewer.dev/?utm_source=github-pimjo&utm_medium=referral&utm_campaign=bfcm2025) | Vue PDF Viewer is a powerful PDF viewer for Vue 3 apps that supports keyword highlights, programmatic control, customization and annotations. | 30% off Viewer Licenses & 40% off Viewer+Annotation Licenses | Nov 17 – Dec 1, 2025 |
 | [**Tower**](https://www.git-tower.com/) | Powerful Git client for Mac and Windows with Undo, Drag and Drop, Workflows, and support for Stacked Branches | 30% OFF any plan for new customers only (no coupon code needed) | Nov 25 – Dec 7, 2025 |
 | [**HTTP Toolkit**](https://httptoolkit.com/?ref=pimjo) | Open-source HTTP debugger & client, with instant one-click setup for Android, Docker, node.js & more | **50% off** forever on annual subscriptions, with code `BLACKFRIDAY25` | Now – Dec 3, 2025 |
 | [**Super Monitoring**](https://www.supermonitoring.com/) | Super Monitoring tracks website and web app uptime, speed, and performance to ensure everything runs smoothly. | 50 percent off one-time for new customers (Coupon: `SUPERBLACK25`) | November 28, 2025 to December 5, 2025 |
+| [**Beagle Security**](https://beaglesecurity.com/black-friday-sale) | Beagle Security is an AI-powered automated pentesting platform that simulates real-world attacks to uncover vulnerabilities in web apps, APIs, and GraphQL. With agentic AI agents, it streamlines testing, analyzes results, and delivers actionable insights for faster, smarter vulnerability management. | **35% OFF annual** (`BFCMY25`) & **20% OFF monthly** (`BFCMM25`) — Applies to Essential & Advanced plans for 6 months | Nov 25 – Dec 4, 2025 |
+| [**DeployHQ**](https://www.deployhq.com/) | Deploy with confidence — zero downtime, every time. Automate your deployments, roll out changes safely, and ship faster with Zero Downtime, Auto Deploy, Turbo Deploy, and AI-powered optimizations for your workflows. | **50% OFF** for 3 months (automatically applied for new customers) | Nov 25 – Dec 2, 2025 |
 
 
 ---
@@ -129,6 +134,7 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Nuelink**](https://www.nuelink.com/) | Nuelink is a social media management platform that automates scheduling, publishing, and content workflows across major platforms like Instagram, Twitter/X, LinkedIn, TikTok, and YouTube. It offers powerful features such as bulk scheduling, post recycling, analytics, content automation, integrations with tools like Zapier and n8n, AI-powered caption generation, and team collaboration tools. All designed to simplify content management and scale social media growth efficiently. | **30% off** monthly & Up to **65% off** yearly | Nov 10 - Nov 28, 2025 |
 | [**OneStream Live**](https://onestream.live/) | OneStream Live is a cloud-based live streaming platform that enables easy scheduling, multistreaming, and real-time broadcasting. | 40 percent off monthly plans for one month and 10 percent off yearly plans (Coupons: `SAVE40`, `SAVE10`) | November 10, 2025 to December 5, 2025 |
 | [**Snov.io**](https://snov.io/) | Snov.io is an email finder and verification platform that helps you discover, validate, and manage lead emails at scale through domain searches, browser extensions, and built-in verification. | 50 percent off the annual plan (Coupon: `BLACKFRIDAY`) | November 24, 2025 to December 3, 2025 |
+| [**SnowSEO**](https://snowseo.com) | SnowSEO handles the tedious parts of growing your brand organically. It automatically researches keywords, creates content, tracks rankings, and optimizes how you appear in both Google searches and AI responses. | **50% OFF** on all Plans, auto-applied at checkout (Limited Time) |
 
 ---
 
@@ -140,6 +146,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Wins**](https://wins.cool?utm_source=black-friday-deals-Pimjo) | Mac window manager — enhances the system App Switcher with Cmd-Tab Plus, improves Dock efficiency with Dock Preview, and offers many other practical features — all designed to feel just like Apple’s built-in features. | 40% OFF Lifetime | Nov 11 – Dec 3, 2025 |
 | [**DocuGenerate**](https://www.docugenerate.com/) | API-powered and no-code PDF document generation platform for developers and teams. | 50% OFF First 3 Months (Coupon: `BLACKFRIDAY2025`) | Nov 1 – Dec 1, 2025 |
 | [**Qandle**](https://www.qandle.com/) | Qandle is an all-in-one HR software that streamlines payroll, attendance, leave management, and overall workforce operations with automation and an intuitive interface. | Up to 25 percent off on all plans | November 24, 2025 to December 31, 2025 |
+| [**Habit Pixel**](https://habitpixel.com/get) | A simple, satisfying habit tracker that helps you stay consistent, build better routines, and actually stick to your goals. Available on iOS and Android. | **40% OFF** Lifetime plan (auto-applied) | Nov 20 – Dec 1, 2025 |
+| [**Octoparse**](https://www.octoparse.com/black-friday-sale-2025?utm_source=github&utm_medium=product&utm_campaign=25bf) |A no-code web scraping tool that turns any website into structured data in minutes — available on macOS.|Get up to **45% OFF**, auto-applied from Nov 19 to Dec 3, (UTC-5). | 2025-12-03 |
 | [**XGetter**](https://xgetter.com/?utm_source=Awesome-Black-Friday-Cyber-Monday) | Media downloader - Download media from YouTube, Douyin, Instagram, X, TikTok and 50+ platforms | Buy Once, Use Forever, 30% off with discount code **BLACKFRIDAY2025** | November 17, 2025 to December 1, 2025 |
 
 ---
@@ -150,7 +158,8 @@ Find the best **Black Friday** and **Cyber Monday 2025** deals across categories
 | [**Vue School**](https://vueschool.io/sales/blackfriday?friend=VUEPDF) | Vue School offers premium video courses to help you master Vue.js, Nuxt, and modern frontend development from industry experts. | **Up to 60% OFF** | Now – Dec 2 2025 |
 | [**LabEx**](https://labex.io/learn) | Learn Linux, DevOps & Cybersecurity with Hands-on Labs | [**50% OFF for Two Years**](https://labex.io/checkout?type=4&coupon=2025BF50) (Coupon: `2025BF50`) and [**30% OFF for One Year**](https://labex.io/checkout?type=2&coupon=2025BF30) (Coupon: `2025BF30`) | Nov 12 – Dec 1, 2025 |
 | [**Practical TLS**](https://classes.pracnet.net/courses/practical-tls) | Comprehensive course with 80+ videos and 40+ labs to master SSL/TLS, cryptography, ciphers, and real-world security practices. | 83% OFF Full Course — Now $47 (Coupon: `BFCM2025`) | Nov 17 – Dec 6, 2025 |
-
+| [**Fast Track To Senior Engineer**](https://maven.com/top-engineer/fast-track-to-senior?promoCode=BF1125) | Become a high-performing software engineer and get promoted in 2026! | **25% off** autoapplied, coupon: `BF1125` | Ends on Dec 15, 2025 |
+| [**pwn.guide**](https://pwn.guide) | Learn cybersecurity from more than 150+ tutorials, ranging from web, hardware, wireless... hacking to forensics, cryptography, defense & **certification training** (for certificates like the CompTIA Security+ SY0-701). | **20% off** all plans **including Lifetime** with the coupon: `BLKFRI20` | Ends on Dec 5, 2025 |
 
 
 ---
@@ -216,6 +225,8 @@ saas tools black friday,
 black friday offers for developers,
 cyber monday software deals 2025
 -->
+
+
 
 
 
